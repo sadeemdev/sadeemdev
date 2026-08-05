@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Muhammad Sadeem
 
-<!--
-**sadeemdev/sadeemdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Web Developer from Pakistan
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Passionate about building modern and responsive web applications
+- 🚀 Always learning and improving my development skills
+- 🎯 Open to freelance opportunities
+- 📍 Karachi, Pakistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Tailwind CSS
+- React.js
+
+## 📫 Connect with Me
+- GitHub: https://github.com/sadeemdev
+- Email: sadeem.tech01@gmail.com
+
+⭐ Thanks for visiting my profile!
